@@ -43,5 +43,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/PavelMenshikov/ai_school_mvp
+git clone https://github.com/PavelMenshikov/ai_school_mvp.git
 cd ai_school_mvp
